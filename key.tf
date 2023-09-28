@@ -26,5 +26,3 @@ output "bucket_info" {
     aws_s3_bucket.bucket.arn
   ]
 }
-
-test
